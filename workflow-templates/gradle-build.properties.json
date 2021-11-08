@@ -1,0 +1,13 @@
+{
+	"name": "Gradle build",
+	"description": "A github action that performs a gradle build on pushes, pull-requests and on demand.",
+	"iconName": "gradle-logo",
+	"categories": [
+		"Java",
+		"Gradle",
+		"Kotlin"
+	],
+	"filePatterns": [
+		"build.gradle"
+	]
+}
